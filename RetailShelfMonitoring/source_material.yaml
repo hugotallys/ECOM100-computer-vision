@@ -1,0 +1,6 @@
+links:
+ - https://github.com/yehengchen/Object-Detection-and-Tracking
+ - http://yuhang.rsise.anu.edu.au/ # WebMarket dataset description and download links.
+ - https://arxiv.org/pdf/1810.01733.pdf # Read this paper!
+ - https://github.com/ultralytics/yolov5 # YOLOv5 implementation with PyTorch.
+ - https://github.com/SkalskiP/make-sense # Tool for dataset annotation (bounding boxes).
