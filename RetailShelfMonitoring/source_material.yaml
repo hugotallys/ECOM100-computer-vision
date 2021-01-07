@@ -4,3 +4,5 @@ links:
  - https://arxiv.org/pdf/1810.01733.pdf # Read this paper!
  - https://github.com/ultralytics/yolov5 # YOLOv5 implementation with PyTorch.
  - https://github.com/SkalskiP/make-sense # Tool for dataset annotation (bounding boxes).
+ - https://github.com/shayanalibhatti/Retail-Store-Item-Detection-using-YOLOv5 # SKU110K Dataset
+ - https://github.com/marcusklasson/GroceryStoreDataset # Groceries dataset from reference images
